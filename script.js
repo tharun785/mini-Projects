@@ -15,7 +15,7 @@ function currentDate(){
 "saturdey"];
 day=days[day];
  
-var month=["Jan","Feb","Mar","Apr","Jun","Jul",
+var month=["Jan","Feb","Mar","Apr","May","Jun","Jul",
 "Aug","Sep","Oct","Nov","Dec"];
  
 mo=month[mo];
